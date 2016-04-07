@@ -1,6 +1,7 @@
 # Rookie
 keep learning !
 
+-- the code : 
 ``` javascript
     (function () {
         function outer () {
