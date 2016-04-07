@@ -7,13 +7,13 @@ keep learning !
                 return false;
         }
 
-        if (true) {
+        if (outer()) {
             function outer () {
                     return true;
             }    
         }
 
-        
+        console.log(outer());
     })();
 
 ```
