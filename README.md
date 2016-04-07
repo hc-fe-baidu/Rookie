@@ -1,7 +1,7 @@
 # Rookie
 keep learning !
 
--- the code : 
+-- the code :
 ``` javascript
     (function () {
         function outer () {
@@ -18,3 +18,5 @@ keep learning !
     })();
 
 ```
+
+this is dev branch .
