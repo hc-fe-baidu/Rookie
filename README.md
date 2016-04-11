@@ -19,4 +19,4 @@ keep learning !
 
 ```
 
-checkout dev branch .
+checkout dev branch ...
