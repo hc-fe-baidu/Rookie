@@ -20,6 +20,3 @@ keep learning !
 ```
 
 checkout dev branch ...
-
-
-work in dev branch ...
