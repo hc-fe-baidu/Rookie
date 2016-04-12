@@ -19,6 +19,10 @@ keep learning !
 
 ```
 
+<<<<<<< HEAD
 checkout master branch .
 
 master branch .....
+=======
+checkout dev branch ...
+>>>>>>> dev
