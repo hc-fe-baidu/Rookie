@@ -19,4 +19,10 @@ keep learning !
 
 ```
 
+checkout master branch .
+
+master branch .....
 checkout dev branch ...
+
+
+work in dev branch ...
